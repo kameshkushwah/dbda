@@ -1,0 +1,615 @@
+ 23  cd ..
+   24  cd Gitnew/
+   25  mn test.pdf
+   26  rm test.pdf
+   27  toush test.txt
+   28  nano test.txt
+   29  vi test.txt
+   30  cat test.txt
+   31  git add
+   32  git add .
+   33  git status
+   34  git commit -m
+   35  git commit -m test.txt
+   36  git commit -m test.txt "1st file"
+   37  git commit -m "1st file "
+   38  git config --globaluser.email "gauravkaushik12061999@gmail.com"
+   39  mv Gitnew "C-DAC
+   40  mv Gitnew "C-DAC"
+   41  cd..
+   42  cd
+   43  cd Desktop/
+   44  mv Gitnew "C-DAC
+   45  mv Gitnew C-DAC
+   46  git config --global user.email "gauravkaushik12061999@gmail.com"
+   47  git config --global user.name "Gaurav"
+   48  git commit -m "1st commit"
+   49  cd C-DAC
+   50  git commit -m "1st commit"
+   51  git log
+   52  sudo git log
+   53  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   54  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   55  nano test.txt.
+   56  nano test.txt
+   57  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   58  nano test.txt
+   59  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   60  git commit -m "2nd commit"
+   61  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   62  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   63  git commit -m "2nd commit"
+   64  git add .
+   65  git commit -m "2nd commit"
+   66  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   67  git commit -m "2nd commit"
+   68  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   69  nano test.txt
+   70  git add .
+   71  git commit -m "2nd commit"
+   72  git commit -m "2nd commit"
+   73  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   74  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   75  nano test.txt
+   76  git add .
+   77  git add * .
+   78  git commit -m "2nd commit"
+   79  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   80  git log
+   81  git show 881c86116ce81ac3439693248be1f16aa519bad5
+   82  cd ..
+   83  mkdir html
+   84  cd html/
+   85  git init
+   86  touch text.html
+   87  nano text.html
+   88  git add * .
+   89  git commit -m "1st commit"
+   90  git log
+   91  git show 82e72f710cfc15db0a0d6adc6a143a2515020ff1
+   92  nano text.html
+   93  git add * .
+   94  git commit -m "2nd commit"
+   95  git log
+   96  git show 82e72f710cfc15db0a0d6adc6a143a2515020ff1
+   97  git show 4ae4662f2f5fff660afbdd157d618649655172ba
+   98  nano text.html
+   99  git add * .
+  100  git commit -m "3rd commit"
+  101  git log
+  102  git show e4f1f4917007859e9eeac414c817844a822e0c67
+  103  git rm text.html
+  104  CD ..
+  105  cd ..
+  106  cd C-DAC/
+  107  git remote add origin https://github.com/gauravkaushik1299/C-DAC.git
+  108  git push -u origin main
+  109  git push -u origin master
+  110  git push -u origin master
+  111  git pull
+  112  touch test.pdf
+  113  git add * .
+  114  git commit -m "1st commit"
+  115  git log
+  116  cd Desktop/
+  117  cd C-DAC/
+  118  git log
+  119  git push
+  120  ls
+  121  touch Login.html
+  122  nano Login.html
+  123  git add * .
+  124  git commit -m "Login page"
+  125  git push
+  126  nano Login.html
+  127  ls
+  128  cat test.pdf
+  129  cat test.txt
+  130  git log
+  131  cd ..
+  132  mkdir test
+  133  mkdir test
+  134  git init.
+  135  git init .
+  136  touch login.html
+  137  nano login.html
+ 23  cd ..
+   24  cd Gitnew/
+   25  mn test.pdf
+   26  rm test.pdf
+   27  toush test.txt
+   28  nano test.txt
+   29  vi test.txt
+   30  cat test.txt
+   31  git add
+   32  git add .
+   33  git status
+   34  git commit -m
+   35  git commit -m test.txt
+   36  git commit -m test.txt "1st file"
+   37  git commit -m "1st file "
+   38  git config --globaluser.email "gauravkaushik12061999@gmail.com"
+   39  mv Gitnew "C-DAC
+   40  mv Gitnew "C-DAC"
+   41  cd..
+   42  cd
+   43  cd Desktop/
+   44  mv Gitnew "C-DAC
+   45  mv Gitnew C-DAC
+   46  git config --global user.email "gauravkaushik12061999@gmail.com"
+   47  git config --global user.name "Gaurav"
+   48  git commit -m "1st commit"
+   49  cd C-DAC
+   50  git commit -m "1st commit"
+   51  git log
+   52  sudo git log
+   53  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   54  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   55  nano test.txt.
+   56  nano test.txt
+   57  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   58  nano test.txt
+   59  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   60  git commit -m "2nd commit"
+   61  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   62  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   63  git commit -m "2nd commit"
+   64  git add .
+   65  git commit -m "2nd commit"
+   66  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   67  git commit -m "2nd commit"
+   68  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   69  nano test.txt
+   70  git add .
+   71  git commit -m "2nd commit"
+   72  git commit -m "2nd commit"
+   73  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   74  git show 59e651b368d6618be730944138f30fbd1a38e0eb
+   75  nano test.txt
+   76  git add .
+   77  git add * .
+   78  git commit -m "2nd commit"
+   79  git log 59e651b368d6618be730944138f30fbd1a38e0eb
+   80  git log
+   81  git show 881c86116ce81ac3439693248be1f16aa519bad5
+   82  cd ..
+   83  mkdir html
+   84  cd html/
+   85  git init
+   86  touch text.html
+   87  nano text.html
+   88  git add * .
+   89  git commit -m "1st commit"
+   90  git log
+   91  git show 82e72f710cfc15db0a0d6adc6a143a2515020ff1
+   92  nano text.html
+   93  git add * .
+   94  git commit -m "2nd commit"
+   95  git log
+   96  git show 82e72f710cfc15db0a0d6adc6a143a2515020ff1
+   97  git show 4ae4662f2f5fff660afbdd157d618649655172ba
+   98  nano text.html
+   99  git add * .
+  100  git commit -m "3rd commit"
+  101  git log
+  102  git show e4f1f4917007859e9eeac414c817844a822e0c67
+  103  git rm text.html
+  104  CD ..
+  105  cd ..
+  106  cd C-DAC/
+  107  git remote add origin https://github.com/gauravkaushik1299/C-DAC.git
+  108  git push -u origin main
+  109  git push -u origin master
+  110  git push -u origin master
+  111  git pull
+  112  touch test.pdf
+  113  git add * .
+  114  git commit -m "1st commit"
+  115  git log
+  116  cd Desktop/
+  117  cd C-DAC/
+  118  git log
+  119  git push
+  120  ls
+  121  touch Login.html
+  122  nano Login.html
+  123  git add * .
+  124  git commit -m "Login page"
+  125  git push
+  126  nano Login.html
+  127  ls
+  128  cat test.pdf
+  129  cat test.txt
+  130  git log
+  131  cd ..
+  132  mkdir test
+  133  mkdir test
+  134  git init.
+  135  git init .
+  136  touch login.html
+  137  nano login.html
+  138  cd test
+  139  git init .
+  140  touch login.html
+  141  nano login.html
+  142  git add .
+  143  git commit -m "1st change"
+  144  git log oneline
+  145  git log --oneline
+  146  touch p.txt
+  147  nano p.txt
+  148  git add .
+  149  git commit -m "1st change"
+  150  git log --oneline
+  151  nano p.txt
+  152  git add .
+  153  git commit -m "2nd change"
+  154  git log --oneline
+  155  git log
+  156  git rm p.txt
+  157  ls
+  158  git add *
+  159  git add * .
+  160  git status
+  161  git log
+  162  git commit -m "deleted"
+  163  git log
+  164  git log --oneline
+  165  git revert 5c6c253
+  166  git revert
+  167  git revert 5c6c253
+  168  cd ..
+  169  cd test
+  170  ls
+  171  git rm p.txt
+  172  ls
+  173  git add * .
+  174  git commit -m "2nd deleted"
+  175  git lof
+  176  git log
+  177  git branch b1
+  178  git branch b2
+  179  git branch b3
+  180  nano test
+  181  echo "qewrtty" > test
+  182  cat test
+  183  git checkout b1
+  184  echo "poiuytre" > test
+  185  git add * .
+  186  git commit -m "branch1"
+  187  git push origin b1
+  188  git checkout master
+  189  git add * .
+  190  git commit -m "main1"
+  191  echo "qewrtty" > test
+  192  git add * .
+  193  git commit -m "main1"
+  194  git push origin master
+  195  git checkout b2
+  196  echo "lkjhgfdsa" > test
+  197  git add * .
+  198  git commit -m "branch2"
+  199  git push origin b2
+  200  git checkout b3
+  201  echo "mnbvcxz" > test
+  202  git add * .
+  203  git commit -m "branch3"
+  204  git push origin b3
+  205  git push origin master
+  206  git checkout master
+  207  git merge
+  208  git log
+  209  ls
+  210  git revert 1dd75644163439b4ccb42aac00172708f2d11301
+  211  git log
+  212  ls
+  213  git status .
+  214  ls
+  215  git rm p.txt
+  216  git add * .
+  217  git status .
+  218  git commit -m "3rd deleted"
+  219  git log --oneline
+  220  git revert 76022b4
+  221  git status .
+  222  ls
+  223  git log --oneline
+  224  git add * .
+  225  git commit -m "2nd revert"
+  226  git log --oneline
+  227  git rm p.txt
+  228  git log --oneline
+  229  git add * .
+  230  git log --oneline
+  231  git commit -m "new"
+  232  git log --oneline
+  233  git reset 24a8df6
+  234  ls
+  235  git add * .
+  236  ls
+  237  git commit -m "reset"
+  238  git reset 24a8df6
+  239  git log
+  240  git log --oneline
+  241  git reset 5c6c253
+  242  git log --oneline
+  243  cat p.txt
+  244  ls
+  245  git show 5c6c253
+  246  git log --oneline
+  247  git reset 1dd7564
+  248  git log --oneline
+  249  cat p.txt
+  250  nano p.txt
+  251  git add * .
+  252  git commit -m "new 2"
+  253  git log --oneline
+  254  cat p.txt
+  255  nano p.txt
+  256  git add * .
+  257  git commit -m "new 3"
+  258  git log --oneline
+  259  git reset 59cb340
+  260  cat p.txt
+  261  git reset eb61414
+  262  cat p.txt
+  263  git reset eb61414
+  264  git reset 1dd7564
+  265  cat p.txt
+  266  git add * .
+  267  cat p.txt
+  268  git commit -m "new 4"
+  269  cat p.txt
+  270  git diff
+  271  git diff p.txt
+  272  nano p.txt
+  273  git add * .
+  274  git diff p.txt
+  275  git commit -m "new 5"
+  276  git diff p.txt
+  277  clear
+  278  touct .txt
+  279  touch t.txt
+  280  nano t.txt
+  281  git add * .
+  282  nano p.txt
+  283  nano t.txt
+  284  git add * .
+  285  git
+  286  git commit -m "t changes"
+  287  nano t.txt
+  288  git add * .
+  289  git diff t.txt
+  290  vi t.txt
+  291  git diff t.txt
+  292  clear
+  293  git remote add origin https://github.com/gauravkaushik1299/Branching.git
+  294  git log
+  295  clear
+  296  git push -u origin main
+  297  git push -u origin master
+  298  mkdir test1
+  299  git add * .
+  300  git commit -m "7 changes"
+  301  git push -u origin master
+  302  ls
+  303  git log
+  304  git show 2b8b1cb54359883e70d4dfa39f672bd89c710754
+  305  git pull
+  306  git pull
+  307  nano t.txt
+  308  git push -u origin master
+  309  rmdir test1
+  310  ls
+  311  mkdir test1
+  312  git push -u origin master
+  313  git add * .
+  314  git push -u origin master
+  315  git commit -m "8 changes"
+  316  git add * .
+  317  git commit -m "8 changes"
+  318  git add * .
+  319  git commit -m "8 changes"
+  320  git push -u origin master
+  321  CLEAR
+  322  git branch b1
+  323  git branch b2
+  324  git branch b3
+  325  git checkout b1
+  326  ls
+  327  echo "degsej" >> t.txt
+  328  cat t.txt
+  329  git checkout b2
+  330  ls
+  331  echo "wqqeryu" >> t.txt
+  332  cat t.txt
+  333  git checkout master
+  334  git pull
+  335  git add * .
+  336  git pull
+  337  git commit -m "branching"
+  338  git pull origin master
+  339  git push origin master
+  340  git checkout b1
+  341  git add * .
+  342  echo "degsej" >> t.txt
+  343  git add * .
+  344  git commit -m "branching1"
+  345  git
+  346  git push origin b1
+  347  git checkout b2
+  348  echo "xzcvbnbmnj" >> t.txt
+  349  git add * .
+  350  git commit -m "branching2"
+  351  git push origin b2
+  352  git checkout master
+  353  git merge
+  354  git checkout b1
+  355  git merge
+  356  git checkout b2
+  357  git merge
+  358  git checkout master
+  359  mkdir CDAC3
+  360  cd CDAC3/
+  361  git init
+  362  touch 4.txt
+  363  echo -e "qwerty\nasdfgh\nzxcvbn">4.txt
+  364  cat 4.txt
+  365  git add 4.txt
+  366  git commit -m "1st commit"
+  367  git remote add origin https://github.com/gauravkaushik1299/labQ3.git
+  368  git push -u origin master
+  369  touch 1.txt
+  370  touch 2.txt
+  371  touch 3.txt
+  372  git add *
+  373  git commit -m "2nd commit"
+  374  git push -u origin master
+  375  rm 1.txt
+  376  git commit -m "3rd commit"
+  377  git push -u origin master
+  378  git push -u origin master
+  379  git remote add origin https://github.com/gauravkaushik1299/labQ3.git
+  380  git push -u origin master
+  381  git add *
+  382  git commit -m "4rd commit"
+  383  git log
+  384  git status 200~edaee81263b2a0ae392e6963c39b7a88d03db6f4~
+  385  git status edaee81263b2a0ae392e6963c39b7a88d03db6f4~
+  386  ssh -i "as1.pem" ubuntu@ec2-16-171-198-179.eu-north-1.compute.amazonaws.com
+  387  open git bash
+  388  mkdir demo1
+  389  git --version
+  390  git init.
+  391  ls -a
+  392  git init.
+  393  clear
+  394  open gitbash
+  395  open git bash
+  396  mkdir demo1
+  397  git init
+  398  ls -a
+  399  touch index.html
+  400  nano index.html
+  401  git add*
+  402  git add*.
+  403  git add*
+  404  git add*
+  405  git add *
+  406  git add *.
+  407  git add *.
+  408  git add * .
+  409  git add* .
+  410  git --version
+  411  mkdir demo1
+  412  git init .
+  413  ls -l
+  414  git add* .
+  415  git add*.
+  416  git add * .
+  417  git status
+  418  clear
+  419  cd Desktop/
+  420  mkdir demo2
+  421  git init .
+  422  cd demo2/
+  423  touch index1.html
+  424  nano index1.html
+  425  git status
+  426  git add* .
+  427  git add *.
+  428  git add * .
+  429  git status
+  430  git commit -m "This is my first file"
+  431  git log
+  432  git  config --global user.email "kameshkush000july28@gmail.com"
+  433  git  config --global user.name "kamesh"
+  434  git log
+  435  git commit -m "This is my first file"
+  436  git log
+  437  git show
+  438  git show (commit )
+  439  git show (commit)
+  440  nano index.html
+  441  git --version
+  442  mkdir demo2
+  443  clear
+  444  cd desktop/
+  445  clear
+  446  cd ..
+  447  clear
+  448  cd Desktop/
+  449  git --version
+  450  mkdir demo3
+  451  cd demo3/
+  452  cd
+  453  cd Desktop/
+  454  cd git
+  455  clear
+  456  cd ..
+  457  clear
+  458  cd Desktop/
+  459  mkdir DEMO
+  460  cd DEMO
+  461  cd Desktop
+  462  mkdir Gitfolder
+  463  cd GitFolder
+  464  git init
+  465  git config --global user.name "Kamesh"
+  466  git config --global user.email "abc@gmail.com"
+  467  cat >file.py
+  468  git add * .
+  469  git status
+  470  git commit -m "This is addition"
+  471  git log
+  472  git show
+  473  cat >>file.py
+  474  cat file,py
+  475  file.py
+  476  cat file.py
+  477  git add * .
+  478  git status
+  479  git commit -m "This is subtraction"
+  480  git log
+  481  git show
+  482  cd Desktop/
+  483  mkdir github
+  484  git version
+  485  github init .
+  486  github init.
+  487  cd github
+  488  github init.
+  489  github init .
+  490  cd
+  491  cd desktop/
+  492  clear
+  493  cd
+  494  clear
+  495  cd desktop/
+  496  mkdir DBDA
+  497  git init .
+  498  .git
+  499  cd DBDA
+  500  cd .git
+  501  cd
+  502  cd desktop/
+  503  cd .git
+  504  cd .git
+  505  cd ..
+  506  cd DBDA
+  507  touch index.htm
+  508  nano index.html
+  509  git add * .
+  510  git status
+  511  git --global usre.email <kamesh>
+  512  git --global user.email <kamesh>
+  513  git --global user.email "kameshkushwah567@gmail.com"
+  514  git --global user.name "kameshkushwah"
+  515  git commit -m "Create html Page"
+  516  git show
+  517  git remote add origin https://github.com/kameshkushwah/dbda.git
+  518  git push -u origin master
+  519  git config --global --unset user.email
+  520  git log
+  521  git push -u origin master
+  522  history
